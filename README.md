@@ -39,9 +39,9 @@ CSS
 JavaScript
 
 
-Contribution
+Contribution:
 
-Feel free to fork this repository, make improvements, and submit pull requests. Your contributions are welcome!
+Your contributions are welcome!
 
 License
 
