@@ -19,6 +19,7 @@ Demo
 
 You can see the live demo here https://yashavini.github.io/ToDoBox/
 
+
 Usage
 
 1. Type your task in the input box at the bottom.
@@ -46,6 +47,7 @@ JavaScript
 Contribution:
 
 Your contributions are welcome!
+
 
 License
 
