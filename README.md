@@ -15,6 +15,10 @@ Simple, clean, and responsive design.
 Easy to use and beginner-friendly.
 
 
+Demo
+
+You can see the live demo here https://yashavini.github.io/ToDoBox/
+
 Usage
 
 1. Type your task in the input box at the bottom.
